@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.env*
+*.log
+package-lock.json
+yarn.lock
+.vscode/
+.idea/
+.DS_Store
+coverage/
+.netlify/
+*.min.js
+*.min.css
